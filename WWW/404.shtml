@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Błąd 404 / Error 404</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-2">
+</head>
+<style>
+TD {font-family:Tahoma;font-size:10;color:#ffffff;}
+.link1 {font-family:Tahoma;font-size:9;color:#655605;font:900;}
+.link11 {font-family:Tahoma;font-size:9;color:#655605;font:900;text-decoration:none;}
+.link2 {font-family:Tahoma;font-size:9;color:#ffffff;}
+.link3 {font-family:verdana;font-size:9;color:#ffffff;text-decoration:none;}
+.link4 {font-family:verdana;font-size:10;color:#ffffff;text-decoration:none;  font-weight : bold;}
+.link5 {font-family:verdana;font-size:11;color:#ffffff;text-decoration:none;  font-weight : bold;}
+.link6 {font-family:verdana;font-size:11;color:#ffffff;text-decoration:none; }
+.star1  {font-family:Tahoma;font-size:11;color:#FFC600;}
+a  {font-family:Tahoma;font-size:11;color:#FFC600;}
+a:hover  {font-family:Tahoma;font-size:11;color:#FFFF00;text-decoration:underline;}
+</style>
+<body bgcolor="#1E3D79" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<br><br><p align="center"><font class="star1"><b>BŁĄD 404 / ERROR 404</b></font></p>
+<p align="center"><font class="link6">Nie można odnaleźć dokumentu / Not found</font></p>
+<hr class="star1" size="2" noshade width="50%">
+<p align="center"><font class="link6"><a href="javascript:history.go(-1)">Powrót / Back</a></font></p>
+
+</body>
+</html>

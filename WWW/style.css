@@ -1,0 +1,46 @@
+body {
+	background-color: #c5e0eb;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: Tahoma;
+	color: #567391;
+	font-size: 12px;
+}
+
+a {
+	font-family: Tahoma;
+	color: #063e78;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+a:hover {
+	font-family: Tahoma;
+	color: #567391;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+.footer {
+  color: #9aaebf;
+  font-size: 11px;
+}
+
+a.footer, a.footer:hover {
+  color: #9aaebf;
+  font-size: 11px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.maly {
+  font-size: 9px;
+  color: #999;
+}
+
+ul {
+  margin-left: 10px;
+  padding-left: 5px;
+}
